@@ -7,4 +7,4 @@ Our final project for EE 375 at Northwestern University was to solve the inverse
   - Download our Jupyter Notebook (Python) at: https://github.com/michaelmenaker/IK_NN/blob/main/ik_nn.ipynb
   - Read the paper we referenced here: https://www.researchgate.net/publication/260014821_Neural_Network_based_Inverse_Kinematics_Solution_for_Trajectory_Tracking_of_a_Robotic_Arm
   
- 
+![alt text](image.jpg)
