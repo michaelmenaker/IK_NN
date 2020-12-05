@@ -1,4 +1,4 @@
-#Supervised Learning Approach to Solving Inverse Kinematics
+##Supervised Learning Approach to Solving Inverse Kinematics
 Our final project for EE 375 at Northwestern University was to solve the inverse kinematics problem for a planar 3 joint manipulator. Our project was based on the paper 
 "Neural network based inverse kinematics solution for trajectory tracking of a robotic arm" published by Adrian-Vasile Duka.
 
