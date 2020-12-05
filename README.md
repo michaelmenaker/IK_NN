@@ -4,6 +4,6 @@ Our final project for EE 375 at Northwestern University was to solve the inverse
 
   - View our report at: https://github.com/michaelmenaker/IK_NN/blob/main/IK_Report.pdf
   - Watch a brief explanation of our project here: https://www.youtube.com/watch?v=tPjCs2QNRvE&t=187s
-  - Download our Jupyter Notebook(Python) here: https://github.com/michaelmenaker/IK_NN/blob/main/ik_nn.ipynb
+  - Download our Jupyter Notebook (Python) here: https://github.com/michaelmenaker/IK_NN/blob/main/ik_nn.ipynb
   
  
